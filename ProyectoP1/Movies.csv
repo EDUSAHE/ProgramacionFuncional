@@ -1,0 +1,1001 @@
+Movie Title,Year of Realease,Genre,Movie Rating,Duration(Mins),Gross(Million),Classification
+Avatar,2009,"Action,Adventure,Fantasy",7.8,162,760.51,A
+Avengers: Endgame,2019,"Action,Adventure,Drama",8.4,181,858.37,C
+Titanic,1997,"Drama,Romance",7.9,194,659.33,B15
+Star Wars: Episode VII - The Force Awakens,2015,"Action,Adventure,Sci-Fi",7.8,138,936.66,B
+Avengers: Infinity War,2018,"Action,Adventure,Sci-Fi",8.4,149,678.82,AA
+Spider-Man: No Way Home,2021,"Action,Adventure,Fantasy",8.3,148,804.75,D
+Jurassic World,2015,"Action,Adventure,Sci-Fi",6.9,124,652.27,B
+The Lion King,2019,"Animation,Adventure,Drama",6.8,118,543.64,A
+The Avengers,2012,"Action,Adventure,Sci-Fi",8,143,623.28,B
+Fast & Furious 7,2015,"Action,Crime,Thriller",7.1,137,353.01,B15
+Frozen II,2019,"Animation,Adventure,Comedy",6.8,103,477.37,A
+Top Gun: Maverick,2022,"Action,Drama",8.4,130,125.37,A
+Avengers: Age of Ultron,2015,"Action,Adventure,Sci-Fi",7.3,141,459.01,B
+Black Panther,2018,"Action,Adventure,Sci-Fi",7.3,134,700.06,D
+Harry Potter and the Deathly Hallows: Part 2,2011,"Adventure,Family,Fantasy",8.1,130,381.01,B
+Star Wars: Episode VIII - The Last Jedi,2017,"Action,Adventure,Fantasy",6.9,152,620.18,C
+Jurassic World: Fallen Kingdom,2018,"Action,Adventure,Sci-Fi",6.1,128,417.72,D
+Frozen,2013,"Animation,Adventure,Comedy",7.4,102,400.74,B
+Beauty and the Beast,2017,"Adventure,Family,Fantasy",7.1,129,504.01,A
+Incredibles 2,2018,"Animation,Action,Adventure",7.6,118,608.58,C
+The Fate of the Furious,2017,"Action,Crime,Thriller",6.6,136,226.01,C
+Iron Man Three,2013,"Action,Adventure,Sci-Fi",7.1,130,409.01,C
+Minions,2015,"Animation,Adventure,Comedy",6.4,91,336.05,B15
+Captain America: Civil War,2016,"Action,Adventure,Sci-Fi",7.8,147,408.08,C
+Aquaman,2018,"Action,Adventure,Fantasy",6.8,143,335.06,B
+The Lord of the Rings: The Return of the King,2003,"Action,Adventure,Drama",9,201,377.85,B
+Spider-Man: Far from Home,2019,"Action,Adventure,Sci-Fi",7.4,129,390.53,D
+Captain Marvel,2019,"Action,Adventure,Sci-Fi",6.8,123,426.83,C
+Transformers: Dark of the Moon,2011,"Action,Adventure,Sci-Fi",6.2,154,352.39,C
+Skyfall,2012,"Action,Adventure,Thriller",7.8,143,304.36,B15
+Transformers: Age of Extinction,2014,"Action,Adventure,Sci-Fi",5.6,165,245.44,D
+Jurassic Park,1993,"Action,Adventure,Sci-Fi",8.2,127,402.45,B
+The Dark Knight Rises,2012,"Action,Drama",8.4,164,448.14,D
+Joker,2019,"Crime,Drama,Thriller",8.4,122,335.45,C
+Star Wars: Episode IX - The Rise of Skywalker,2019,"Action,Adventure,Fantasy",6.5,141,515.2,AA
+Toy Story 4,2019,"Animation,Adventure,Comedy",7.7,100,434.04,D
+Toy Story 3,2010,"Animation,Adventure,Comedy",8.3,103,415,D
+Pirates of the Caribbean: Dead Man's Chest,2006,"Action,Adventure,Fantasy",7.3,151,423.32,C
+The Lion King,1994,"Animation,Adventure,Drama",8.5,88,422.78,D
+Rogue One,2016,"Action,Adventure,Sci-Fi",7.8,133,532.18,B
+Aladdin,2019,"Adventure,Comedy,Family",6.9,128,355.56,D
+Pirates of the Caribbean: On Stranger Tides,2011,"Action,Adventure,Fantasy",6.6,137,241.06,C
+Despicable Me 3,2017,"Animation,Adventure,Comedy",6.2,89,264.62,A
+Finding Dory,2016,"Animation,Adventure,Comedy",7.3,97,486.3,D
+Star Wars: Episode I - The Phantom Menace,1999,"Action,Adventure,Fantasy",6.5,136,474.54,A
+Alice in Wonderland,2010,"Adventure,Family,Fantasy",6.4,108,334.19,AA
+Zootopia,2016,"Animation,Adventure,Comedy",8,108,341.27,B
+Harry Potter and the Sorcerer's Stone,2001,"Adventure,Family,Fantasy",7.6,152,317.58,C
+The Hobbit: An Unexpected Journey,2012,"Adventure,Fantasy",7.8,169,303,A
+The Dark Knight,2008,"Action,Crime,Drama",9,152,534.86,B15
+Jurassic World Dominion,2022,"Action,Adventure,Sci-Fi",5.7,147,422.78,C
+Harry Potter and the Deathly Hallows: Part 1,2010,"Adventure,Family,Fantasy",7.7,146,295.98,C
+Despicable Me 2,2013,"Animation,Adventure,Comedy",7.3,98,368.06,D
+The Jungle Book,2016,"Adventure,Drama,Family",7.4,106,364,B
+Jumanji: Welcome to the Jungle,2017,"Action,Adventure,Comedy",6.9,119,404.52,B15
+The Hobbit: The Battle of the Five Armies,2014,"Adventure,Fantasy",7.4,144,255.12,D
+Pirates of the Caribbean: At World's End,2007,"Action,Adventure,Fantasy",7.1,169,309.42,B
+The Hobbit: The Desolation of Smaug,2013,"Adventure,Fantasy",7.8,161,258.37,C
+Doctor Strange in the Multiverse of Madness,2022,"Action,Adventure,Fantasy",7,126,216.43,D
+The Lord of the Rings: The Two Towers,2002,"Action,Adventure,Drama",8.8,179,342.55,A
+Harry Potter and the Order of the Phoenix,2007,"Action,Adventure,Family",7.5,138,292,C
+Finding Nemo,2003,"Animation,Adventure,Comedy",8.2,100,380.84,A
+Harry Potter and the Half-Blood Prince,2009,"Action,Adventure,Family",7.6,153,301.96,AA
+Shrek 2,2004,"Animation,Adventure,Comedy",7.3,93,436.47,B
+Bohemian Rhapsody,2018,"Biography,Drama,Music",7.9,134,216.43,C
+Chang jin hu,2021,"Action,Drama,History",5.4,176,0.34,A
+The Lord of the Rings: The Fellowship of the Ring,2001,"Action,Adventure,Drama",8.8,178,315.54,D
+Harry Potter and the Goblet of Fire,2005,"Adventure,Family,Fantasy",7.7,157,290.01,A
+Spider-Man 3,2007,"Action,Adventure,Sci-Fi",6.3,139,336.53,B
+Minions: The Rise of Gru,2022,"Animation,Adventure,Comedy",6.6,87,310.68,B
+Ice Age: Dawn of the Dinosaurs,2009,"Animation,Adventure,Comedy",6.9,94,196.57,B
+Spectre,2015,"Action,Adventure,Thriller",6.8,148,200.07,A
+Spider-Man: Homecoming,2017,"Action,Adventure,Sci-Fi",7.4,133,334.2,B15
+Harry Potter and the Chamber of Secrets,2002,"Adventure,Family,Fantasy",7.4,161,261.99,A
+Ice Age: Continental Drift,2012,"Animation,Adventure,Comedy",6.5,88,161.32,D
+The Secret Life of Pets,2016,"Animation,Adventure,Comedy",6.5,87,368.38,C
+Batman v Superman: Dawn of Justice,2016,"Action,Adventure,Sci-Fi",6.4,152,330.36,C
+Zhan lang II,2017,"Action,Adventure,Drama",5.9,123,2.72,B
+Star Wars: Episode III - Revenge of the Sith,2005,"Action,Adventure,Fantasy",7.6,140,380.26,C
+The Hunger Games: Catching Fire,2013,"Action,Adventure,Sci-Fi",7.5,146,424.67,D
+Guardians of the Galaxy Vol. 2,2017,"Action,Adventure,Comedy",7.6,136,389.81,C
+Inside Out,2015,"Animation,Adventure,Comedy",8.2,95,356.46,AA
+Venom,2018,"Action,Adventure,Sci-Fi",6.6,112,213.52,C
+Thor: Ragnarok,2017,"Action,Adventure,Comedy",7.9,130,315.06,C
+Inception,2010,"Action,Adventure,Sci-Fi",8.8,148,292.58,D
+Transformers: Revenge of the Fallen,2009,"Action,Adventure,Sci-Fi",5.9,149,402.11,B
+The Twilight Saga: Breaking Dawn - Part 2,2012,"Adventure,Drama,Fantasy",5.5,115,292.3,B
+Spider-Man,2002,"Action,Adventure,Sci-Fi",7.4,121,403.71,C
+Wonder Woman,2017,"Action,Adventure,Fantasy",7.4,141,412.56,D
+"Ni hao, Li Huanying",2021,"Comedy,Romance",7,128,409.01,D
+Independence Day,1996,"Action,Adventure,Sci-Fi",7,145,306.17,B15
+Fantastic Beasts and Where to Find Them,2016,"Adventure,Family,Fantasy",7.2,132,234.04,D
+Shrek the Third,2007,"Animation,Adventure,Comedy",6.1,93,320.71,C
+Coco,2017,"Animation,Adventure,Comedy",8.4,105,209.73,D
+Jumanji: The Next Level,2019,"Action,Adventure,Comedy",6.7,123,316.83,A
+Harry Potter and the Prisoner of Azkaban,2004,"Adventure,Family,Fantasy",7.9,142,249.36,C
+Pirates of the Caribbean: Dead Men Tell No Tales,2017,"Action,Adventure,Fantasy",6.5,129,172.56,B
+E.T. the Extra-Terrestrial,1982,"Adventure,Family,Sci-Fi",7.9,115,435.11,D
+Mission: Impossible - Fallout,2018,"Action,Adventure,Thriller",7.7,147,220.16,A
+2012,2009,"Action,Adventure,Sci-Fi",5.8,158,166.11,AA
+Indiana Jones and the Kingdom of the Crystal Skull,2008,"Action,Adventure",6.2,122,317.1,D
+Spider-Man 2,2004,"Action,Adventure,Sci-Fi",7.4,127,373.59,B15
+Furious 6,2013,"Action,Adventure,Crime",7,130,238.68,A
+Deadpool 2,2018,"Action,Adventure,Comedy",7.7,119,324.59,B
+Deadpool,2016,"Action,Adventure,Comedy",8,108,363.07,A
+Star Wars,1977,"Action,Adventure,Fantasy",8.6,121,322.74,C
+No Time to Die,2021,"Action,Adventure,Thriller",7.3,163,160.87,D
+Guardians of the Galaxy,2014,"Action,Adventure,Comedy",8,121,333.18,C
+The Batman,2022,"Action,Crime,Drama",7.9,176,380.26,A
+The Da Vinci Code,2006,"Mystery,Thriller",6.6,149,217.54,A
+Fast & Furious Presents: Hobbs & Shaw,2019,"Action,Adventure,Thriller",6.5,137,173.96,D
+Maleficent,2014,"Adventure,Family,Fantasy",6.9,97,241.41,D
+The Amazing Spider-Man,2012,"Action,Adventure,Sci-Fi",6.9,136,262.03,C
+The Hunger Games: Mockingjay - Part 1,2014,"Action,Adventure,Sci-Fi",6.6,123,337.14,D
+Shrek Forever After,2010,"Animation,Adventure,Comedy",6.3,93,238.37,B
+Thor: Love and Thunder,2022,"Action,Adventure,Comedy",6.4,118,259.77,A
+Madagascar 3: Europe's Most Wanted,2012,"Animation,Adventure,Comedy",6.8,95,216.39,D
+Suicide Squad,2016,"Action,Adventure,Fantasy",5.9,123,325.1,B15
+X-Men: Days of Future Past,2014,"Action,Adventure,Sci-Fi",7.9,132,233.92,D
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,"Adventure,Family,Fantasy",6.9,143,291.71,AA
+Monsters University,2013,"Animation,Adventure,Comedy",7.2,104,268.49,B
+The Matrix Reloaded,2003,"Action,Sci-Fi",7.2,138,281.49,A
+Up,2009,"Animation,Adventure,Comedy",8.3,96,293,D
+Ne Zha zhi mo tong jiang shi,2019,"Animation,Action,Adventure",7.4,110,3.7,C
+F9,2021,"Action,Crime,Thriller",5.2,143,173.2,B
+Gravity,2013,"Drama,Sci-Fi,Thriller",7.7,91,274.09,A
+Captain America: The Winter Soldier,2014,"Action,Adventure,Sci-Fi",7.8,136,259.77,D
+The Twilight Saga: Breaking Dawn - Part 1,2011,"Adventure,Drama,Fantasy",4.9,117,281.29,A
+The Twilight Saga: New Moon,2009,"Adventure,Drama,Fantasy",4.7,130,296.62,D
+Dawn of the Planet of the Apes,2014,"Action,Adventure,Drama",7.6,130,208.55,C
+Transformers,2007,"Action,Adventure,Sci-Fi",7,144,319.25,C
+The Amazing Spider-Man 2,2014,"Action,Adventure,Sci-Fi",6.6,142,202.85,B
+It,2017,Horror,7.3,135,327.48,D
+Interstellar,2014,"Adventure,Drama,Sci-Fi",8.6,169,188.02,B15
+Liu lang di qiu,2019,"Action,Adventure,Sci-Fi",5.9,125,5.88,C
+The Twilight Saga: Eclipse,2010,"Action,Adventure,Drama",5,124,300.53,C
+Mission: Impossible - Ghost Protocol,2011,"Action,Thriller",7.4,132,209.4,D
+The Hunger Games,2012,"Action,Adventure,Sci-Fi",7.2,142,408.01,B
+Tang ren jie tan an 3,2021,"Action,Adventure,Comedy",5.6,136,5.88,C
+Mission: Impossible - Rogue Nation,2015,"Action,Adventure,Thriller",7.4,131,195.04,B
+Forrest Gump,1994,"Drama,Romance",8.8,142,330.25,C
+Doctor Strange,2016,"Action,Adventure,Fantasy",7.5,115,232.64,D
+The Sixth Sense,1999,"Drama,Mystery,Thriller",8.2,107,293.51,B
+Man of Steel,2013,"Action,Adventure,Sci-Fi",7.1,143,291.05,C
+Ice Age: The Meltdown,2006,"Animation,Adventure,Comedy",6.8,91,195.33,C
+Kung Fu Panda 2,2011,"Animation,Action,Adventure",7.2,90,165.25,C
+Justice League,2017,"Action,Adventure,Fantasy",6.1,120,229.02,B
+Big Hero 6,2014,"Animation,Action,Adventure",7.8,102,222.53,A
+Fantastic Beasts: The Crimes of Grindelwald,2018,"Adventure,Family,Fantasy",6.5,134,159.56,D
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,"Action,Adventure,Fantasy",8.1,143,305.41,D
+Star Wars: Episode II - Attack of the Clones,2002,"Action,Adventure,Fantasy",6.6,142,310.68,B
+The Hunger Games: Mockingjay - Part 2,2015,"Action,Adventure,Sci-Fi",6.5,137,281.72,B
+Thor: The Dark World,2013,"Action,Adventure,Fantasy",6.8,112,206.36,C
+Moana,2016,"Animation,Adventure,Comedy",7.6,107,248.76,D
+Sing,2016,"Animation,Comedy,Family",7.1,108,270.4,D
+Kung Fu Panda,2008,"Animation,Action,Adventure",7.6,92,215.43,D
+The Incredibles,2004,"Animation,Action,Adventure",8,115,261.44,A
+The Martian,2015,"Adventure,Drama,Sci-Fi",8,144,228.43,B
+Hancock,2008,"Action,Drama,Fantasy",6.4,92,227.95,AA
+Chang jin hu zhi shui men qiao,2022,"Action,Drama,History",5.4,153,126.66,D
+Fast Five,2011,"Action,Crime,Thriller",7.3,130,209.84,B15
+Men in Black 3,2012,"Action,Adventure,Comedy",6.8,106,179.02,B
+Iron Man 2,2010,"Action,Adventure,Sci-Fi",6.9,124,312.43,B
+Ratatouille,2007,"Animation,Adventure,Comedy",8.1,111,206.45,D
+Ant-Man and the Wasp,2018,"Action,Adventure,Comedy",7,118,216.65,B
+How to Train Your Dragon 2,2014,"Animation,Action,Adventure",7.8,102,177,B15
+Logan,2017,"Action,Drama,Sci-Fi",8.1,137,226.28,A
+The Lost World: Jurassic Park,1997,"Action,Adventure,Sci-Fi",6.5,129,229.09,A
+Casino Royale,2006,"Action,Adventure,Thriller",8,144,167.45,A
+The Passion of the Christ,2004,Drama,7.2,127,370.78,D
+Mamma Mia!,2008,"Comedy,Musical,Romance",6.5,108,144.13,B
+Life of Pi,2012,"Adventure,Drama,Fantasy",7.9,127,124.99,B
+Transformers: The Last Knight,2017,"Action,Adventure,Sci-Fi",5.2,154,130.17,B15
+Madagascar: Escape 2 Africa,2008,"Animation,Adventure,Comedy",6.6,89,180.01,B
+War of the Worlds,2005,"Action,Adventure,Sci-Fi",6.5,116,234.28,A
+Tangled,2010,"Animation,Adventure,Comedy",7.7,100,200.82,B
+Quantum of Solace,2008,"Action,Adventure,Thriller",6.6,106,168.37,B15
+Men in Black,1997,"Action,Adventure,Comedy",7.3,98,250.69,B
+The Croods,2013,"Animation,Adventure,Comedy",7.2,98,187.17,D
+The Hangover Part II,2011,Comedy,6.4,102,254.46,C
+Iron Man,2008,"Action,Adventure,Sci-Fi",7.9,126,318.41,B
+I Am Legend,2007,"Action,Drama,Sci-Fi",7.2,101,256.39,D
+Ready Player One,2018,"Action,Adventure,Sci-Fi",7.4,140,137.69,B
+"Monsters, Inc.",2001,"Animation,Adventure,Comedy",8.1,92,289.92,D
+Hong hai xing dong,2018,"Action,Drama,Thriller",6.6,142,1.54,D
+Night at the Museum,2006,"Adventure,Comedy,Family",6.4,108,250.86,AA
+Fifty Shades of Grey,2015,"Drama,Romance,Thriller",4.1,125,166.17,D
+Kong: Skull Island,2017,"Action,Adventure,Fantasy",6.6,118,168.05,C
+The Smurfs,2011,"Animation,Adventure,Comedy",5.4,103,142.61,B15
+Cars 2,2011,"Animation,Adventure,Comedy",6.2,106,191.45,C
+King Kong,2005,"Action,Adventure,Drama",7.2,187,218.08,B
+Puss in Boots,2011,"Animation,Adventure,Comedy",6.6,90,149.26,C
+Mei ren yu,2016,"Comedy,Drama,Fantasy",6.2,94,3.23,C
+Armageddon,1998,"Action,Adventure,Sci-Fi",6.7,151,201.57,C
+The Day After Tomorrow,2004,"Action,Adventure,Sci-Fi",6.4,124,186.74,B
+Ted,2012,Comedy,6.9,106,218.82,B15
+American Sniper,2014,"Action,Biography,Drama",7.3,133,350.13,A
+Mission: Impossible II,2000,"Action,Adventure,Thriller",6.1,123,215.41,D
+Tang ren jie tan an 2,2018,"Action,Comedy,Mystery",6.1,121,1.98,C
+X-Men: Apocalypse,2016,"Action,Adventure,Sci-Fi",6.9,144,155.44,A
+Sherlock Holmes: A Game of Shadows,2011,"Action,Adventure,Mystery",7.4,129,186.85,D
+Despicable Me,2010,"Animation,Adventure,Comedy",7.6,95,251.51,D
+Cinderella,2015,"Adventure,Drama,Family",6.9,105,201.15,B
+Madagascar,2005,"Animation,Adventure,Comedy",6.9,86,193.6,B
+World War Z,2013,"Action,Adventure,Horror",7,116,202.36,C
+Brave,2012,"Animation,Adventure,Comedy",7.1,93,237.28,A
+The Empire Strikes Back,1980,"Action,Adventure,Fantasy",8.7,124,290.48,A
+The Simpsons Movie,2007,"Animation,Adventure,Comedy",7.3,87,183.14,B
+The Revenant,2015,"Action,Adventure,Drama",8,156,183.64,B15
+The Meg,2018,"Action,Horror,Sci-Fi",5.6,113,143.01,C
+Ralph Breaks the Internet,2018,"Animation,Adventure,Comedy",7,112,201.09,A
+Hotel Transylvania 3: Summer Vacation,2018,"Animation,Adventure,Comedy",6.3,97,167.51,D
+The Boss Baby,2017,"Animation,Adventure,Comedy",6.3,97,175,A
+Dunkirk,2017,"Action,Drama,History",7.8,106,188.37,B
+Godzilla,2014,"Action,Adventure,Sci-Fi",6.4,123,200.68,C
+How to Train Your Dragon: The Hidden World,2019,"Animation,Action,Adventure",7.4,104,160.8,D
+Sherlock Holmes,2009,"Action,Adventure,Mystery",7.6,128,209.03,D
+Meet the Fockers,2004,"Comedy,Romance",6.3,115,279.26,AA
+WALL·E,2008,"Animation,Adventure,Family",8.4,98,223.81,A
+Kung Fu Panda 3,2016,"Animation,Action,Adventure",7.1,95,143.53,C
+Terminator 2: Judgment Day,1991,"Action,Sci-Fi",8.6,137,204.84,C
+Ant-Man,2015,"Action,Adventure,Comedy",7.3,117,180.2,D
+The Grinch,2018,"Animation,Comedy,Family",6.3,85,270.62,D
+Venom: Let There Be Carnage,2021,"Action,Adventure,Sci-Fi",5.9,97,213.55,B
+Ghost,1990,"Drama,Fantasy,Romance",7.1,127,217.63,D
+Aladdin,1992,"Animation,Adventure,Comedy",8,90,217.35,C
+Rio 2,2014,"Animation,Adventure,Comedy",6.3,101,131.54,D
+Troy,2004,"Drama,History",7.3,163,133.38,D
+Toy Story 2,1999,"Animation,Adventure,Comedy",7.9,92,245.85,A
+How to Train Your Dragon,2010,"Animation,Action,Adventure",8.1,98,217.58,B15
+Twister,1996,"Action,Adventure,Thriller",6.4,113,241.72,D
+Oz the Great and Powerful,2013,"Adventure,Family,Fantasy",6.3,130,234.91,D
+Clash of the Titans,2010,"Action,Adventure,Fantasy",5.8,106,163.21,A
+Maleficent: Mistress of Evil,2019,"Adventure,Family,Fantasy",6.6,119,113.93,B
+War for the Planet of the Apes,2017,"Action,Adventure,Drama",7.4,140,146.88,D
+Shrek,2001,"Animation,Adventure,Comedy",7.9,90,267.67,D
+Mr. & Mrs. Smith,2005,"Action,Comedy,Crime",6.5,120,186.34,A
+Angels & Demons,2009,"Action,Mystery,Thriller",6.7,138,133.38,C
+Teenage Mutant Ninja Turtles,2014,"Action,Adventure,Comedy",5.8,101,191.2,C
+Bruce Almighty,2003,"Comedy,Fantasy",6.8,101,242.83,B
+Rio,2011,"Animation,Adventure,Comedy",6.9,96,143.62,D
+Saving Private Ryan,1998,"Drama,War",8.6,169,216.54,AA
+Rise of the Planet of the Apes,2011,"Action,Drama,Sci-Fi",7.6,105,176.76,D
+Home Alone,1990,"Comedy,Family",7.7,103,285.76,C
+Hotel Transylvania 2,2015,"Animation,Adventure,Comedy",6.6,89,169.7,C
+Star Wars: Episode VI - Return of the Jedi,1983,"Action,Adventure,Fantasy",8.3,131,309.13,C
+Charlie and the Chocolate Factory,2005,"Adventure,Comedy,Family",6.7,115,206.46,C
+Indiana Jones and the Last Crusade,1989,"Action,Adventure",8.2,127,197.17,C
+Jaws,1975,"Adventure,Thriller",8.1,124,260,B15
+San Andreas,2015,"Action,Adventure,Thriller",6.1,114,155.19,A
+It Chapter Two,2019,"Drama,Fantasy,Horror",6.5,169,211.59,A
+Wreck-It Ralph,2012,"Animation,Adventure,Comedy",7.7,101,189.42,C
+Godzilla vs. Kong,2021,"Action,Sci-Fi,Thriller",6.3,113,100.92,C
+The Hangover,2009,Comedy,7.7,100,277.32,D
+The Lego Movie,2014,"Animation,Action,Adventure",7.7,100,257.76,C
+Bumblebee,2018,"Action,Adventure,Sci-Fi",6.7,114,127.2,D
+Star Trek Into Darkness,2013,"Action,Adventure,Sci-Fi",7.7,132,228.78,B
+The Matrix,1999,"Action,Sci-Fi",8.7,136,171.48,AA
+Gladiator,2000,"Action,Adventure,Drama",8.5,155,187.71,B
+Pretty Woman,1990,"Comedy,Romance",7.1,119,178.41,A
+Cars,2006,"Animation,Adventure,Comedy",7.2,117,244.08,C
+Ba bai,2020,"Action,Drama,History",6.7,149,0.37,A
+X-Men: The Last Stand,2006,"Action,Adventure,Sci-Fi",6.6,104,234.36,C
+National Treasure: Book of Secrets,2007,"Action,Adventure,Mystery",6.5,124,219.96,A
+Lucy,2014,"Action,Sci-Fi,Thriller",6.4,89,126.66,C
+Mission: Impossible,1996,"Action,Adventure,Thriller",7.1,110,180.98,B
+300,2006,"Action,Drama",7.6,117,210.61,AA
+The Last Samurai,2003,"Action,Drama",7.8,154,111.11,C
+Kimetsu no Yaiba: Mugen Ressha-Hen,2020,"Animation,Action,Adventure",8.2,117,47.7,D
+Wo bu shi yao shen,2018,"Comedy,Drama",7.8,117,0.01,C
+Ocean's Eleven,2001,"Crime,Thriller",7.7,116,183.42,A
+Wo he wo de zu guo,2019,"Drama,History",6.3,154,2.36,D
+Thor,2011,"Action,Adventure,Fantasy",7,115,181.03,B15
+Pearl Harbor,2001,"Action,Drama,History",6.2,183,198.54,D
+La La Land,2016,"Comedy,Drama,Music",8,128,151.1,D
+Tarzan,1999,"Animation,Adventure,Comedy",7.3,88,171.09,B
+Men in Black II,2002,"Action,Adventure,Comedy",6.1,88,190.42,B
+The Bourne Ultimatum,2007,"Action,Mystery,Thriller",8,115,227.47,D
+The Mummy Returns,2001,"Action,Adventure,Fantasy",6.4,130,202.02,D
+Alvin and the Chipmunks: The Squeakquel,2009,"Animation,Adventure,Comedy",4.5,88,219.61,C
+Les Misérables,2012,"Drama,Musical,Romance",7.5,158,148.81,A
+The Exorcist,1973,Horror,8.1,122,232.91,B
+Mrs. Doubtfire,1993,"Comedy,Drama",7.1,125,219.2,A
+Terminator Genisys,2015,"Action,Adventure,Sci-Fi",6.3,126,89.76,AA
+Warcraft,2016,"Action,Adventure,Fantasy",6.7,123,47.37,A
+A Star Is Born,2018,"Drama,Music,Romance",7.6,136,215.29,B
+The Greatest Showman,2017,"Biography,Drama,Musical",7.5,105,174.34,B15
+Terminator 3: Rise of the Machines,2003,"Action,Sci-Fi",6.3,109,150.37,C
+Pokémon: Detective Pikachu,2019,"Action,Adventure,Comedy",6.5,104,144.11,D
+Shang-Chi and the Legend of the Ten Rings,2021,"Action,Adventure,Fantasy",7.4,132,224.54,C
+Die Another Day,2002,"Action,Adventure,Thriller",6.1,133,160.94,B
+The Secret Life of Pets 2,2019,"Animation,Adventure,Comedy",6.4,86,158.87,C
+Cast Away,2000,"Adventure,Drama,Romance",7.8,143,233.63,D
+Rampage,2018,"Action,Adventure,Sci-Fi",6.1,107,101.03,D
+The King's Speech,2010,"Biography,Drama,History",8,118,138.8,B
+The Matrix Revolutions,2003,"Action,Sci-Fi",6.7,129,139.31,B15
+The Intouchables,2011,"Biography,Comedy,Drama",8.5,112,13.18,B
+Bad Boys for Life,2020,"Action,Comedy,Crime",6.5,124,206.31,C
+Django Unchained,2012,"Drama,Western",8.4,165,162.81,C
+Beauty and the Beast,1991,"Animation,Family,Fantasy",8,84,218.97,D
+Dances with Wolves,1990,"Adventure,Drama,Western",8,181,184.21,D
+Wo he wo de jia xiang,2020,Drama,6.5,153,89.76,C
+The Chronicles of Narnia: Prince Caspian,2008,"Action,Adventure,Family",6.5,150,141.62,A
+Sex and the City,2008,"Comedy,Drama,Romance",5.7,145,152.65,C
+Zhong guo ji zhang,2019,"Action,Adventure,Drama",6.2,111,0.71,B
+The Mummy,1999,"Action,Adventure,Fantasy",7.1,124,155.25,C
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,"Adventure,Family,Fantasy",6.3,113,104.39,B
+Jason Bourne,2016,"Action,Thriller",6.6,123,162.43,B15
+The Wolverine,2013,"Action,Sci-Fi",6.7,126,132.56,C
+Kingsman: The Secret Service,2014,"Action,Adventure,Comedy",7.7,129,128.26,D
+Night at the Museum: Battle of the Smithsonian,2009,"Adventure,Comedy,Family",6,105,177.24,B
+Batman,1989,"Action,Adventure",7.5,126,251.19,A
+The Bodyguard,1992,"Action,Drama,Music",6.3,129,121.95,A
+Pacific Rim,2013,"Action,Adventure,Sci-Fi",6.9,131,101.8,B
+Kingsman: The Golden Circle,2017,"Action,Adventure,Comedy",6.7,141,100.23,C
+The Mummy,2017,"Action,Adventure,Fantasy",5.4,111,80.1,D
+Sing 2,2021,"Animation,Adventure,Comedy",7.4,110,162.79,A
+Ice Age: Collision Course,2016,"Animation,Adventure,Comedy",5.6,94,64.06,C
+Twilight,2008,"Drama,Fantasy,Romance",5.3,122,191.47,C
+Signs,2002,"Drama,Mystery,Sci-Fi",6.8,106,227.97,B
+X2,2003,"Action,Adventure,Sci-Fi",7.4,134,214.95,D
+Fantastic Beasts: The Secrets of Dumbledore,2022,"Adventure,Family,Fantasy",6.2,142,176.48,B
+Alita: Battle Angel,2019,"Action,Adventure,Sci-Fi",7.3,122,85.71,AA
+The Mummy: Tomb of the Dragon Emperor,2008,"Action,Adventure,Fantasy",5.2,112,102.49,A
+Prometheus,2012,"Adventure,Mystery,Sci-Fi",7,124,126.48,C
+Gone with the Wind,1939,"Drama,Romance,War",8.2,238,198.68,D
+Mamma Mia! Here We Go Again,2018,"Comedy,Musical,Romance",6.6,114,120.63,D
+Eternals,2021,"Action,Adventure,Fantasy",6.3,156,164.87,A
+Sonic the Hedgehog 2,2022,"Action,Adventure,Comedy",6.5,122,80.1,A
+Dune: Part One,2021,"Action,Adventure,Drama",8,155,108.33,C
+Uncharted,2022,"Action,Adventure",6.3,116,158.35,D
+Tron,2010,"Action,Adventure,Sci-Fi",6.8,125,172.06,D
+Mission: Impossible III,2006,"Action,Adventure,Thriller",6.9,126,134.03,C
+Snow White and the Huntsman,2012,"Action,Adventure,Drama",6.1,127,155.33,C
+Grease,1978,"Comedy,Musical,Romance",7.2,110,188.76,C
+Toy Story,1995,"Animation,Adventure,Comedy",8.3,81,191.8,C
+Solo: A Star Wars Story,2018,"Action,Adventure,Sci-Fi",6.9,135,213.77,C
+The Wolf of Wall Street,2013,"Biography,Comedy,Crime",8.2,180,116.9,AA
+Superman Returns,2006,"Action,Adventure,Sci-Fi",6.1,154,200.08,C
+Robin Hood: Prince of Thieves,1991,"Action,Adventure,Drama",6.9,143,165.5,C
+Raiders of the Lost Ark,1981,"Action,Adventure",8.4,115,248.16,D
+Independence Day: Resurgence,2016,"Action,Adventure,Sci-Fi",5.2,120,103.14,D
+Live Free or Die Hard,2007,"Action,Thriller",7.1,128,134.53,A
+Zhuo yao ji,2015,"Adventure,Comedy,Fantasy",6.1,117,0.02,B
+Godzilla: King of the Monsters,2019,"Action,Adventure,Fantasy",6,132,110.5,B15
+Home,2015,"Animation,Adventure,Comedy",6.6,94,177.4,B
+Star Trek,2009,"Action,Adventure,Sci-Fi",7.9,127,257.73,A
+1917,2019,"Action,Drama,War",8.2,119,159.23,B15
+Happy Feet,2006,"Animation,Adventure,Comedy",6.4,108,198,B
+Cars 3,2017,"Animation,Adventure,Comedy",6.7,102,152.9,A
+Back to the Future,1985,"Adventure,Comedy,Sci-Fi",8.5,116,210.61,B
+Ice Age,2002,"Animation,Adventure,Comedy",7.5,81,176.39,A
+Fifty Shades Darker,2017,"Drama,Romance,Thriller",4.5,118,114.38,D
+Monsters vs. Aliens,2009,"Animation,Action,Adventure",6.4,94,198.35,D
+Black Widow,2021,"Action,Adventure,Sci-Fi",6.7,134,183.65,D
+Godzilla,1998,"Action,Sci-Fi,Thriller",5.4,139,136.31,AA
+True Lies,1994,"Action,Comedy,Thriller",7.3,141,146.28,A
+Slumdog Millionaire,2008,"Crime,Drama,Romance",8,120,141.32,C
+Taken 2,2012,"Action,Crime,Thriller",6.2,92,139.85,B
+G.I. Joe: Retaliation,2013,"Action,Adventure,Sci-Fi",5.7,110,122.52,B15
+Mad Max: Fury Road,2015,"Action,Adventure,Sci-Fi",8.1,120,154.06,B
+Spider-Man: Into the Spider-Verse,2018,"Animation,Action,Adventure",8.4,117,190.24,B
+Shark Tale,2004,"Animation,Adventure,Comedy",6,90,160.86,A
+Once Upon a Time... in Hollywood,2019,"Comedy,Drama",7.6,161,142.5,C
+What Women Want,2000,"Comedy,Fantasy,Romance",6.4,127,182.81,D
+The Adventures of Tintin,2011,"Animation,Action,Adventure",7.3,107,77.59,C
+Batman Begins,2005,"Action,Crime,Drama",8.2,140,206.85,C
+Penguins of Madagascar,2014,"Animation,Adventure,Comedy",6.6,92,83.35,D
+X-Men Origins: Wolverine,2009,"Action,Sci-Fi",6.5,107,179.88,B15
+The Golden Compass,2007,"Adventure,Family,Fantasy",6.1,113,70.11,B
+Fifty Shades Freed,2018,"Drama,Romance,Thriller",4.5,105,100.41,C
+Hitch,2005,"Comedy,Romance",6.6,118,179.5,D
+Terminator Salvation,2009,"Action,Adventure,Sci-Fi",6.5,115,125.32,C
+Captain America: The First Avenger,2011,"Action,Adventure,Sci-Fi",6.9,124,176.65,AA
+Edge of Tomorrow,2014,"Action,Adventure,Sci-Fi",7.9,113,100.21,A
+There's Something About Mary,1998,"Comedy,Romance",7.1,119,176.48,B
+Gone Girl,2014,"Drama,Mystery,Thriller",8.1,149,167.77,C
+The Fugitive,1993,"Action,Crime,Drama",7.8,130,183.88,D
+Jurassic Park III,2001,"Action,Adventure,Sci-Fi",5.9,92,181.17,AA
+My Big Fat Greek Wedding,2002,"Comedy,Drama,Romance",6.6,95,241.44,D
+Xi hong shi shou fu,2018,Comedy,6.1,118,113.75,C
+Die Hard: With a Vengeance,1995,"Action,Adventure,Thriller",7.6,128,100.01,C
+Shazam!,2019,"Action,Adventure,Comedy",7,132,140.37,D
+The Nun,2018,"Horror,Mystery,Thriller",5.3,96,117.45,D
+Alvin and the Chipmunks,2007,"Animation,Adventure,Comedy",5.2,92,217.33,A
+Tenet,2020,"Action,Sci-Fi,Thriller",7.3,150,58.46,D
+Notting Hill,1999,"Comedy,Drama,Romance",7.2,124,116.09,B15
+A Bug's Life,1998,"Animation,Adventure,Comedy",7.2,95,162.8,D
+Night at the Museum: Secret of the Tomb,2014,"Adventure,Comedy,Family",6.2,98,113.75,D
+Ocean's Twelve,2004,"Crime,Thriller",6.5,125,125.54,A
+Planet of the Apes,2001,"Action,Adventure,Sci-Fi",5.7,119,180.01,D
+The Hangover Part III,2013,"Comedy,Crime",5.8,100,112.2,B
+The World Is Not Enough,1999,"Action,Adventure,Thriller",6.4,128,126.94,C
+Zhuo yao ji 2,2018,"Adventure,Comedy,Fantasy",5.4,110,0.71,A
+Fast & Furious,2009,"Action,Crime,Thriller",6.5,107,155.06,B
+Noah,2014,"Action,Adventure,Drama",5.8,138,101.2,C
+The Karate Kid,2010,"Action,Drama,Family",6.2,140,176.59,D
+Home Alone 2: Lost in New York,1992,"Adventure,Comedy,Crime",6.8,120,173.59,D
+Hotel Transylvania,2012,"Animation,Adventure,Comedy",7,91,148.31,D
+Minority Report,2002,"Action,Crime,Mystery",7.7,145,132.07,B
+Kimi no na wa.,2016,"Animation,Drama,Fantasy",8.4,106,5.02,A
+Top Gun,1986,"Action,Drama",6.9,110,179.8,C
+The Legend of Tarzan,2016,"Action,Adventure,Drama",6.2,110,126.64,AA
+American Beauty,1999,Drama,8.4,122,130.1,B
+Sen to Chihiro no kamikakushi,2001,"Animation,Adventure,Family",8.6,125,10.06,B15
+Apollo 13,1995,"Adventure,Drama,History",7.7,140,173.84,B
+Rain Man,1988,Drama,8,133,178.8,B
+The Great Gatsby,2013,"Drama,Romance",7.2,143,144.84,A
+Dumbo,2019,"Adventure,Family,Fantasy",6.3,112,114.77,C
+"I, Robot",2004,"Action,Mystery,Sci-Fi",7.1,115,144.8,C
+Basic Instinct,1992,"Drama,Mystery,Thriller",7,127,117.73,C
+Murder on the Orient Express,2017,"Crime,Drama,Mystery",6.5,114,102.83,A
+X: First Class,2011,"Action,Adventure,Sci-Fi",7.7,131,146.41,AA
+Angry Birds,2016,"Animation,Action,Adventure",6.3,97,107.51,D
+GoldenEye,1995,"Action,Adventure,Thriller",7.2,130,106.6,D
+Catch Me If You Can,2002,"Biography,Crime,Drama",8.1,141,164.62,C
+Now You See Me,2013,"Crime,Mystery,Thriller",7.2,115,117.72,A
+Hannibal,2001,"Crime,Drama,Thriller",6.8,131,165.09,C
+The Mask,1994,"Action,Comedy,Crime",6.9,101,119.94,A
+Peter Rabbit,2018,"Adventure,Comedy,Crime",6.6,95,115.25,B15
+Speed,1994,"Action,Adventure,Thriller",7.3,116,121.25,AA
+Dinosaur,2000,"Animation,Adventure,Drama",6.4,82,137.75,A
+Mary Poppins Returns,2018,"Animation,Adventure,Comedy",6.7,130,171.96,B
+Deep Impact,1998,"Action,Drama,Sci-Fi",6.2,120,140.46,D
+The Lorax,2012,"Animation,Adventure,Comedy",6.4,86,214.03,D
+The Maze Runner,2014,"Action,Mystery,Sci-Fi",6.8,113,102.43,C
+The Smurfs 2,2013,"Animation,Adventure,Comedy",5.3,105,71.02,B15
+National Treasure,2004,"Action,Adventure,Mystery",6.9,131,173.01,D
+Rush Hour 2,2001,"Action,Comedy,Crime",6.6,90,226.16,B
+Trolls,2016,"Animation,Adventure,Comedy",6.4,92,153.71,B
+xXx: Return of Xander Cage,2017,"Action,Adventure,Thriller",5.2,107,44.9,C
+Pocahontas,1995,"Animation,Adventure,Drama",6.7,81,141.6,B15
+How the Grinch Stole Christmas,2000,"Comedy,Family,Fantasy",6.2,104,260.04,D
+Star Trek Beyond,2016,"Action,Adventure,Sci-Fi",7,122,158.85,C
+Alvin and the Chipmunks: Chipwrecked,2011,"Animation,Adventure,Comedy",4.3,87,133.11,B
+Wanted,2008,"Action,Crime,Thriller",6.7,110,134.51,B15
+The Flintstones,1994,"Comedy,Family,Fantasy",4.9,91,130.51,B
+A Quiet Place,2018,"Drama,Horror,Sci-Fi",7.5,90,188.02,B
+Enchanted,2007,"Animation,Adventure,Comedy",7.1,107,127.81,C
+Over the Hedge,2006,"Animation,Adventure,Comedy",6.7,83,155.02,C
+300: Rise of an Empire,2014,"Action,Drama",6.2,102,106.58,C
+Batman Forever,1995,"Action,Adventure",5.4,121,184.03,B
+Prince of Persia: The Sands of Time,2010,"Action,Adventure,Fantasy",6.6,116,90.76,B15
+The Curious Case of Benjamin Button,2008,"Drama,Fantasy,Romance",7.8,166,127.51,D
+Journey 2: The Mysterious Island,2012,"Action,Adventure,Comedy",5.7,94,103.86,C
+The Rock,1996,"Action,Adventure,Thriller",7.4,136,134.07,C
+The Great Wall,2016,"Action,Adventure,Fantasy",5.9,103,45.54,B
+Now You See Me 2,2016,"Action,Adventure,Comedy",6.4,129,65.08,C
+Xiu xiu de tie quan,2017,"Comedy,Fantasy,Sport",6.1,100,165.5,C
+Fantastic Four,2005,"Action,Adventure,Fantasy",5.7,106,154.7,D
+Indiana Jones and the Temple of Doom,1984,"Action,Adventure",7.5,118,179.87,C
+Tomorrow Never Dies,1997,"Action,Adventure,Thriller",6.5,119,125.33,D
+Back to the Future Part II,1989,"Adventure,Comedy,Sci-Fi",7.8,108,118.5,C
+The Good Dinosaur,2015,"Animation,Adventure,Comedy",6.7,93,123.09,AA
+Free Guy,2021,"Action,Adventure,Comedy",7.1,115,121.63,D
+22 Jump Street,2014,"Action,Comedy,Crime",7,112,191.72,B
+Meet the Parents,2000,"Comedy,Romance",7,108,166.24,B15
+Who Framed Roger Rabbit,1988,"Animation,Adventure,Comedy",7.7,104,156.45,B
+Black Swan,2010,"Drama,Thriller",8,108,106.95,D
+The Perfect Storm,2000,"Action,Adventure,Drama",6.4,130,182.62,D
+Crocodile Dundee,1986,"Action,Adventure,Comedy",6.6,97,174.64,C
+Feng kuang de wai xing ren,2019,"Comedy,Sci-Fi",5.8,116,137.4,C
+Se7en,1995,"Crime,Drama,Mystery",8.6,127,100.13,C
+John Wick: Chapter 3 - Parabellum,2019,"Action,Crime,Thriller",7.4,130,171.02,A
+The Devil Wears Prada,2006,"Comedy,Drama",6.9,109,124.74,C
+Taken 3,2014,"Action,Crime,Thriller",6,108,89.26,B
+The Hunchback of Notre Dame,1996,"Animation,Drama,Family",7,91,100.14,A
+A Christmas Carol,2009,"Animation,Adventure,Comedy",6.8,96,137.86,D
+The SpongeBob Movie: Sponge Out of Water,2015,"Animation,Adventure,Comedy",6,92,162.99,C
+Schindler's List,1993,"Biography,Drama,History",9,195,96.9,C
+Megamind,2010,"Animation,Action,Comedy",7.3,95,148.42,A
+The Conjuring 2,2016,"Horror,Mystery,Thriller",7.3,134,102.47,B
+Green Book,2018,"Biography,Comedy,Drama",8.2,130,85.08,C
+Lethal Weapon 3,1992,"Action,Crime,Thriller",6.7,118,144.73,B
+Robin Hood,2010,"Action,Adventure,Drama",6.6,140,105.27,B
+Inglourious Basterds,2009,"Adventure,Drama,War",8.3,153,120.54,C
+101 Dalmatians,1996,"Adventure,Comedy,Crime",5.7,103,136.19,C
+The Conjuring,2013,"Horror,Mystery,Thriller",7.5,112,137.4,AA
+Fatal Attraction,1987,"Drama,Thriller",6.9,119,156.65,A
+Sonic the Hedgehog,2020,"Action,Adventure,Comedy",6.5,99,148.97,A
+The Last Airbender,2010,"Action,Adventure,Family",4,103,131.56,B
+The Proposal,2009,"Comedy,Drama,Romance",6.7,108,163.96,AA
+A Beautiful Mind,2001,"Biography,Drama",8.2,135,170.74,B
+Beverly Hills Cop,1984,"Action,Comedy,Crime",7.3,105,234.76,A
+The Polar Express,2004,"Animation,Adventure,Comedy",6.6,100,183.37,A
+Air Force One,1997,"Action,Drama,Thriller",6.5,124,172.96,D
+The Expendables 2,2012,"Action,Adventure,Thriller",6.6,103,85.02,D
+Chicken Little,2005,"Animation,Adventure,Comedy",5.7,81,135.39,D
+As Good as It Gets,1997,"Comedy,Drama,Romance",7.7,139,148.48,A
+Maze Runner: The Scorch Trials,2015,"Action,Adventure,Sci-Fi",6.3,131,81.7,A
+Resident Evil: The Final Chapter,2016,"Action,Horror,Sci-Fi",5.5,107,26.83,AA
+The Lego Batman Movie,2017,"Animation,Action,Adventure",7.3,104,175.75,B15
+Austin Powers: The Spy Who Shagged Me,1999,"Action,Adventure,Comedy",6.6,95,206.04,D
+Knives Out,2019,"Comedy,Crime,Drama",7.9,130,165.36,A
+Ocean's Thirteen,2007,"Crime,Thriller",6.9,122,117.15,C
+Little Fockers,2010,"Comedy,Romance",5.5,98,148.38,B
+Bolt,2008,"Animation,Adventure,Comedy",6.8,96,114.05,B
+Ransom,1996,"Action,Crime,Thriller",6.7,121,136.49,A
+Runaway Bride,1999,"Comedy,Romance",5.6,116,152.26,A
+The Blind Side,2009,"Biography,Drama,Sport",7.6,129,255.96,D
+Qian ren 3: Zai jian qian ren,2017,"Comedy,Romance",5.6,120,0.84,D
+The Fault in Our Stars,2014,"Drama,Romance",7.7,126,124.87,C
+The Pursuit of Happyness,2006,"Biography,Drama",8,117,163.57,A
+Rise of the Guardians,2012,"Animation,Action,Adventure",7.2,97,103.41,C
+Close Encounters of the Third Kind,1977,"Drama,Sci-Fi",7.6,138,132.09,B15
+Chicago,2002,"Comedy,Crime,Musical",7.2,113,170.69,D
+Annabelle: Creation,2017,"Horror,Mystery,Thriller",6.5,109,102.09,C
+Wonder,2017,"Drama,Family",7.9,113,132.42,C
+Skyscraper,2018,"Action,Adventure,Thriller",5.8,102,68.42,AA
+A Good Day to Die Hard,2013,"Action,Thriller",5.2,98,67.35,A
+Mulan,1998,"Animation,Adventure,Comedy",7.6,88,120.62,C
+Dangal,2016,"Action,Biography,Drama",8.3,161,12.39,C
+Passengers,2016,"Drama,Romance,Sci-Fi",7,116,100.01,A
+Battleship,2012,"Action,Adventure,Sci-Fi",5.8,131,65.42,C
+Liar Liar,1997,"Comedy,Fantasy",6.9,86,181.41,A
+G.I. Joe: The Rise of Cobra,2009,"Action,Adventure,Sci-Fi",5.7,118,152.27,C
+Wrath of the Titans,2012,"Action,Adventure,Fantasy",5.7,99,83.67,A
+4: Rise of the Silver Surfer,2007,"Action,Adventure,Fantasy",5.6,92,131.92,A
+Hook,1991,"Adventure,Comedy,Family",6.8,142,119.65,C
+Superman,1978,"Action,Adventure,Sci-Fi",7.4,143,134.22,A
+Rocky IV,1985,"Drama,Sport",6.8,91,127.87,D
+Rambo: First Blood Part II,1985,"Action,Adventure,Thriller",6.5,96,150.42,B
+Resident Evil: Afterlife,2010,"Action,Horror,Sci-Fi",5.8,96,60.13,C
+Van Helsing,2004,"Action,Adventure,Fantasy",6,131,120.18,AA
+Stuart Little,1999,"Adventure,Comedy,Family",6,84,140.04,A
+Beverly Hills Cop II,1987,"Action,Comedy,Crime",6.5,100,153.67,A
+Alice Through the Looking Glass,2016,"Adventure,Family,Fantasy",6.2,113,77.04,A
+My Best Friend's Wedding,1997,"Comedy,Drama,Romance",6.3,105,127.12,B
+Real Steel,2011,"Action,Drama,Sci-Fi",7,127,85.47,D
+Horton Hears a Who!,2008,"Animation,Adventure,Comedy",6.8,86,154.53,B
+Ocean's Eight,2018,"Action,Comedy,Crime",6.3,110,140.22,B15
+A Quiet Place Part II,2020,"Drama,Horror,Sci-Fi",7.2,97,160.07,D
+Insurgent,2015,"Action,Adventure,Sci-Fi",6.2,119,130.18,B
+Look Who's Talking,1989,Comedy,5.9,93,140.09,D
+Austin Powers in Goldmember,2002,"Action,Adventure,Comedy",6.2,94,213.31,C
+Ghostbusters,1984,"Action,Comedy,Fantasy",7.8,105,238.63,A
+Miss Peregrine's Home for Peculiar Children,2016,"Adventure,Drama,Family",6.7,127,87.24,D
+X-Men,2000,"Action,Adventure,Sci-Fi",7.3,104,157.3,A
+Ferdinand,2017,"Animation,Adventure,Comedy",6.7,108,84.41,D
+Shutter Island,2010,"Mystery,Thriller",8.2,138,128.01,C
+Doctor Dolittle,1998,"Comedy,Family,Fantasy",5.4,85,144.16,C
+Bee Movie,2007,"Animation,Adventure,Comedy",6.1,91,126.63,B
+Salt,2010,"Action,Thriller",6.4,100,118.31,B15
+G-Force,2009,"Animation,Action,Adventure",5.1,88,119.44,C
+The Departed,2006,"Crime,Drama,Thriller",8.5,151,132.38,D
+What Lies Beneath,2000,"Drama,Horror,Mystery",6.6,130,155.46,AA
+Pacific Rim: Uprising,2018,"Action,Adventure,Fantasy",5.6,111,59.87,C
+The Bourne Supremacy,2004,"Action,Mystery,Thriller",7.7,108,176.24,B
+Sex and the City 2,2010,"Comedy,Drama,Romance",4.5,146,95.35,B
+Shakespeare in Love,1998,"Comedy,Drama,History",7.1,123,100.32,A
+Divergent,2014,"Action,Adventure,Mystery",6.6,139,150.95,C
+Coming to America,1988,"Comedy,Romance",7.1,117,128.15,B
+Wedding Crashers,2005,"Comedy,Romance",7,119,209.22,D
+Bridesmaids,2011,"Comedy,Romance",6.8,125,169.11,C
+Maze Runner: The Death Cure,2018,"Action,Adventure,Sci-Fi",6.2,143,58.03,A
+Casper,1995,"Comedy,Family,Fantasy",6.1,100,100.33,C
+American Pie 2,2001,Comedy,6.4,108,145.1,B
+Pitch Perfect 2,2015,"Comedy,Music",6.4,115,184.3,A
+The Green Mile,1999,"Crime,Drama,Fantasy",8.6,189,136.8,C
+Oblivion,2013,"Action,Adventure,Sci-Fi",7,124,89.02,C
+Elysium,2013,"Action,Drama,Sci-Fi",6.6,109,93.05,C
+Lethal Weapon 4,1998,"Action,Crime,Thriller",6.6,127,130.44,A
+John Carter,2012,"Action,Adventure,Sci-Fi",6.6,132,73.08,D
+Turbo,2013,"Animation,Adventure,Comedy",6.4,96,83.03,D
+Paddington,2014,"Adventure,Comedy,Family",7.3,95,76.27,C
+Bridget Jones's Diary,2001,"Comedy,Drama,Romance",6.7,97,71.54,B
+Elvis,2022,"Biography,Drama,Music",7.5,159,65.08,D
+The Tourist,2010,"Action,Thriller",6,103,67.63,D
+Split,2016,"Horror,Thriller",7.3,117,138.29,C
+Scary Movie,2000,Comedy,6.2,88,157.02,C
+xXx,2002,"Action,Adventure,Thriller",5.8,124,142.11,D
+The Bourne Legacy,2012,"Action,Adventure,Thriller",6.6,135,113.2,C
+Mr. Peabody & Sherman,2014,"Animation,Adventure,Comedy",6.8,92,111.51,AA
+Scooby-Doo,2002,"Adventure,Comedy,Family",5.2,89,153.29,A
+Lincoln,2012,"Biography,Drama,History",7.3,150,182.21,C
+Lara Croft: Tomb Raider,2001,"Action,Adventure,Fantasy",5.7,100,131.14,B
+Tomb Raider,2018,"Action,Adventure,Fantasy",6.3,119,58.25,AA
+The Expendables,2010,"Action,Adventure,Thriller",6.4,103,103.07,D
+Cloudy with a Chance of Meatballs 2,2013,"Animation,Adventure,Comedy",6.3,95,119.79,D
+The Nutty Professor,1996,"Comedy,Romance,Sci-Fi",5.7,95,128.81,A
+Jerry Maguire,1996,"Comedy,Drama,Romance",7.3,139,153.95,A
+Bad Boys II,2003,"Action,Comedy,Crime",6.6,147,138.61,D
+Lilo & Stitch,2002,"Animation,Adventure,Comedy",7.3,85,145.79,D
+The Silence of the Lambs,1991,"Crime,Drama,Thriller",8.6,118,130.74,D
+Grown Ups,2010,Comedy,5.9,102,162,C
+Neighbors,2014,Comedy,6.3,97,150.16,A
+The Firm,1993,"Drama,Mystery,Thriller",6.8,154,158.35,C
+We're the Millers,2013,"Comedy,Crime",7,110,150.39,D
+Gran Torino,2008,Drama,8.1,116,148.1,A
+"10,000 BC",2008,"Action,Adventure,Drama",5.1,109,94.78,D
+American Gangster,2007,"Biography,Crime,Drama",7.8,157,130.16,D
+Epic,2013,"Animation,Action,Adventure",6.6,102,107.52,A
+Exodus: Gods and Kings,2014,"Action,Adventure,Drama",6,150,65.01,C
+Bambi,1942,"Animation,Adventure,Drama",7.3,69,102.8,C
+The Princess and the Frog,2009,"Animation,Adventure,Comedy",7.1,97,104.4,C
+Batman Returns,1992,"Action,Crime,Fantasy",7.1,126,162.83,C
+Indecent Proposal,1993,"Drama,Romance",6,117,106.61,B15
+Something's Gotta Give,2003,"Comedy,Drama,Romance",6.7,128,124.73,D
+Bridget Jones: The Edge of Reason,2004,"Comedy,Drama,Romance",6,108,40.23,B
+The Incredible Hulk,2008,"Action,Adventure,Sci-Fi",6.6,112,134.52,D
+Waterworld,1995,"Action,Adventure,Sci-Fi",6.2,135,88.25,C
+The Truman Show,1998,"Comedy,Drama",8.2,103,125.62,B
+Charlie's Angels,2000,"Action,Adventure,Comedy",5.6,98,125.31,AA
+The Fifth Element,1997,"Action,Adventure,Sci-Fi",7.6,126,63.54,D
+Gisaengchung,2019,"Drama,Thriller",8.5,132,53.37,A
+Jumanji,1995,"Adventure,Comedy,Family",7,104,100.48,C
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,Comedy,7.3,84,128.51,B
+Robots,2005,"Animation,Adventure,Comedy",6.4,91,128.2,C
+Knight and Day,2010,"Action,Adventure,Comedy",6.3,109,76.42,D
+Total Recall,1990,"Action,Adventure,Sci-Fi",7.5,113,119.39,C
+This Is It,2009,"Documentary,Drama,Music",7.2,111,72.09,B
+Terminator: Dark Fate,2019,"Action,Adventure,Sci-Fi",6.2,128,62.25,D
+The Lone Ranger,2013,"Action,Adventure,Western",6.4,150,89.3,D
+Super 8,2011,"Action,Mystery,Sci-Fi",7,112,127,A
+Xun long jue,2015,"Action,Adventure,Drama",5.9,127,1.24,C
+Blade Runner 2049,2017,"Action,Drama,Mystery",8,164,92.05,C
+Charlie's Angels: Full Throttle,2003,"Action,Adventure,Comedy",4.9,106,100.83,D
+Rush Hour 3,2007,"Action,Comedy,Crime",6.2,91,140.13,B15
+The Full Monty,1997,"Comedy,Drama",7.2,91,45.95,A
+Gong fu yu jia,2017,"Action,Adventure,Comedy",5.1,107,0.36,C
+Annabelle,2014,"Horror,Mystery,Thriller",5.4,99,84.27,D
+Encanto,2021,"Animation,Comedy,Family",7.2,102,96.09,D
+The Village,2004,"Drama,Mystery,Thriller",6.6,108,114.2,D
+Gang jiong,2015,"Action,Adventure,Comedy",5.4,114,1.3,B
+Erin Brockovich,2000,"Biography,Drama",7.4,131,125.6,D
+Fei chi ren sheng,2019,"Comedy,Sport",6.3,98,130.74,B
+Get Out,2017,"Horror,Mystery,Thriller",7.7,104,176.04,C
+Marley & Me,2008,"Comedy,Drama,Family",7,111,143.15,B
+Halloween,2018,"Crime,Horror,Thriller",6.5,106,159.34,D
+Us,2019,"Horror,Mystery,Thriller",6.8,116,175.08,AA
+Cliffhanger,1993,"Action,Adventure,Thriller",6.5,113,84.05,B
+Baahubali 2: The Conclusion,2017,"Action,Drama",8.2,167,20.19,A
+Babe,1995,"Comedy,Drama,Family",6.9,91,66.6,C
+Men in Black: International,2019,"Action,Adventure,Comedy",5.6,114,80,D
+Wild Hogs,2007,"Action,Adventure,Comedy",5.8,100,168.27,B
+High School Musical 3: Senior Year,2008,"Comedy,Drama,Family",4.9,112,90.56,B15
+Hercules,1997,"Animation,Adventure,Comedy",7.3,93,99.05,C
+Dark Phoenix,2019,"Action,Adventure,Sci-Fi",5.7,113,65.85,A
+True Grit,2010,"Drama,Western",7.6,110,171.24,D
+Dolittle,2020,"Adventure,Comedy,Family",5.6,101,77.05,C
+Bean,1997,"Adventure,Comedy,Family",6.5,89,45.32,B
+American Hustle,2013,"Crime,Drama",7.2,138,150.12,A
+Enemy of the State,1998,"Action,Thriller",7.3,132,111.55,C
+You've Got Mail,1998,"Comedy,Drama,Romance",6.7,119,115.82,D
+Eragon,2006,"Action,Adventure,Family",5.1,104,75.03,B
+Brother Bear,2003,"Animation,Adventure,Comedy",6.8,85,85.34,C
+The Godfather,1972,"Crime,Drama",9.2,175,134.97,D
+The Mask of Zorro,1998,"Action,Adventure,Comedy",6.8,136,94.1,C
+The Ring,2002,"Horror,Mystery",7.1,115,129.13,B
+The Blair Witch Project,1999,"Horror,Mystery",6.5,81,140.54,C
+Unbreakable,2000,"Drama,Mystery,Sci-Fi",7.3,106,95.01,B
+Journey to the West: Demon Chapter,2017,"Adventure,Comedy,Family",5.4,109,0.88,C
+Dumb and Dumber,1994,Comedy,7.3,107,127.18,B15
+Glass,2019,"Drama,Horror,Sci-Fi",6.6,129,111.05,AA
+Grown Ups 2,2013,Comedy,5.3,101,133.67,A
+The Peanuts Movie,2015,"Animation,Adventure,Comedy",7,88,130.18,A
+Rango,2011,"Animation,Action,Adventure",7.2,107,123.48,A
+The Bad Guys,2022,"Animation,Adventure,Comedy",6.8,100,84.05,D
+Four Weddings and a Funeral,1994,"Comedy,Drama,Romance",7.1,117,52.7,C
+Face/Off,1997,"Action,Crime,Sci-Fi",7.3,138,112.23,B
+Teenage Mutant Ninja Turtles: Out of the Shadows,2016,"Action,Adventure,Comedy",5.9,112,82.05,D
+Dark Shadows,2012,"Comedy,Fantasy,Horror",6.2,113,79.73,B
+Hulk,2003,"Action,Sci-Fi",5.6,138,132.18,C
+Love Actually,2003,"Comedy,Drama,Romance",7.6,135,59.7,AA
+Lie huo ying xiong,2019,"Action,Drama,Family",5.7,118,0.29,A
+Bienvenue chez les Ch'tis,2008,"Comedy,Romance",7.1,106,1.48,C
+Back to the Future Part III,1990,"Adventure,Comedy,Sci-Fi",7.4,118,87.73,A
+Pixels,2015,"Action,Comedy,Fantasy",5.6,105,78.75,B15
+Hercules,2014,"Action,Adventure,Fantasy",6,98,72.69,C
+Rush Hour,1998,"Action,Comedy,Crime",7,98,141.15,D
+Journey to the Center of the Earth,2008,"Action,Adventure,Family",5.8,93,101.7,C
+After Earth,2013,"Action,Adventure,Sci-Fi",4.8,100,60.52,C
+A Few Good Men,1992,"Drama,Thriller",7.7,138,141.34,C
+Cloudy with a Chance of Meatballs,2009,"Animation,Adventure,Comedy",6.9,90,124.87,D
+8 Mile,2002,"Drama,Music",7.2,110,116.72,B
+Daddy's Home,2015,"Comedy,Family",6.1,96,150.36,C
+RoboCop,2014,"Action,Crime,Sci-Fi",6.2,117,58.61,C
+Eraser,1996,"Action,Crime,Thriller",6.2,115,101.3,C
+Alien: Covenant,2017,"Horror,Sci-Fi,Thriller",6.4,122,74.26,B
+Sully,2016,"Biography,Drama",7.4,96,125.07,C
+Assassin's Creed,2016,"Action,Adventure,Sci-Fi",5.6,115,54.65,C
+Click,2006,"Comedy,Drama,Fantasy",6.4,107,137.36,B
+Jiang Ziya,2020,"Animation,Action,Adventure",6.5,110,0.21,B
+Resident Evil: Retribution,2012,"Action,Horror,Sci-Fi",5.3,95,42.35,B15
+Die Hard 2,1990,"Action,Thriller",7.1,124,117.54,C
+Crocodile Dundee II,1988,"Action,Adventure,Comedy",5.7,108,109.31,B
+Planes,2013,"Animation,Adventure,Comedy",5.7,91,90.29,C
+Crazy Rich Asians,2018,"Comedy,Drama,Romance",6.9,120,174.53,B15
+Batman & Robin,1997,"Action,Sci-Fi",3.7,125,107.33,B
+Gulliver's Travels,2010,"Adventure,Comedy,Family",4.9,85,42.78,A
+Gone in Sixty Seconds,2000,"Action,Crime,Thriller",6.5,118,101.65,D
+Saturday Night Fever,1977,"Drama,Music",6.8,118,94.21,C
+Silver Linings Playbook,2012,"Comedy,Drama,Romance",7.7,122,132.09,A
+2 Fast 2 Furious,2003,"Action,Adventure,Crime",5.9,107,127.15,D
+Hauru no ugoku shiro,2004,"Animation,Adventure,Family",8.2,119,4.71,B15
+Hidden Figures,2016,"Biography,Drama,History",7.8,127,169.61,C
+A.I. Artificial Intelligence,2001,"Drama,Sci-Fi",7.2,146,78.62,B
+Dead Poets Society,1989,"Comedy,Drama",8.1,128,95.86,C
+Spy,2015,"Action,Comedy",7,120,110.83,A
+American Pie,1999,Comedy,7,95,102.56,AA
+American Reunion,2012,Comedy,6.7,113,57.01,A
+Big Daddy,1999,"Comedy,Drama",6.4,93,163.48,B
+Alvin and the Chipmunks: The Road Chip,2015,"Animation,Adventure,Comedy",4.9,92,85.89,A
+The Imitation Game,2014,"Biography,Drama,Thriller",8,114,91.13,A
+Cruella,2021,"Adventure,Comedy,Crime",7.3,134,86.1,B
+The Day the Earth Stood Still,2008,"Adventure,Drama,Sci-Fi",5.5,104,79.37,B
+American Wedding,2003,Comedy,6.3,96,104.57,D
+The Girl with the Dragon Tattoo,2011,"Crime,Drama,Mystery",7.8,158,102.52,B
+Juno,2007,"Comedy,Drama",7.5,96,143.5,A
+Argo,2012,"Biography,Drama,Thriller",7.7,120,136.03,A
+Mr. Bean's Holiday,2007,"Comedy,Family",6.4,90,33.3,AA
+The English Patient,1996,"Drama,Romance,War",7.4,162,78.65,C
+Sister Act,1992,"Comedy,Family,Music",6.5,100,139.61,D
+Annabelle Comes Home,2019,"Horror,Mystery,Thriller",5.9,106,74.15,C
+Constantine,2005,"Action,Fantasy,Horror",7,121,75.98,B15
+Get Smart,2008,"Action,Adventure,Comedy",6.5,110,130.32,B
+Space Jam,1996,"Animation,Adventure,Comedy",6.5,88,90.46,C
+La vita è bella,1997,"Comedy,Drama,Romance",8.6,116,57.6,C
+The Heat,2013,"Action,Comedy,Crime",6.6,117,159.58,C
+Ghostbusters,2016,"Action,Comedy,Fantasy",6.9,117,128.34,A
+Ghost Rider,2007,"Action,Fantasy,Thriller",5.2,110,115.8,C
+Xia Luo te fan nao,2015,Comedy,6.7,104,1.29,A
+Paddington 2,2017,"Adventure,Comedy,Family",7.8,103,40.44,C
+Sleepless in Seattle,1993,"Comedy,Drama,Romance",6.8,105,126.53,C
+Lethal Weapon 2,1989,"Action,Crime,Thriller",7.2,114,147.25,B
+The Green Hornet,2011,"Action,Comedy,Crime",5.8,119,98.78,D
+Out of Africa,1985,"Biography,Drama,Romance",7.1,161,87.1,C
+Fang hua,2017,"Drama,Romance,War",7,135,1.89,D
+Baby Driver,2017,"Action,Crime,Drama",7.6,113,107.83,C
+Immortals,2011,"Action,Drama,Fantasy",6,110,83.5,AA
+Taken,2008,"Action,Crime,Thriller",7.8,90,145,B
+Percy Jackson & the Olympians: The Lightning Thief,2010,"Adventure,Family,Fantasy",5.8,118,88.76,A
+Hansel & Gretel: Witch Hunters,2013,"Action,Fantasy,Horror",6.1,88,55.7,C
+Lightyear,2022,"Animation,Action,Adventure",6,100,42.78,AA
+Valerian and the City of a Thousand Planets,2017,"Action,Adventure,Fantasy",6.4,136,41.19,D
+Good Will Hunting,1997,"Drama,Romance",8.3,126,138.43,A
+Shaonian de ni,2019,"Crime,Drama,Romance",7.5,135,40.44,D
+Ford v Ferrari,2019,"Action,Biography,Drama",8.1,152,117.62,AA
+Jumper,2008,"Action,Adventure,Sci-Fi",6.1,88,80.17,B
+Elf,2003,"Adventure,Comedy,Family",7,97,173.4,B15
+The Social Network,2010,"Biography,Drama",7.8,120,96.96,A
+Chicken Run,2000,"Animation,Adventure,Comedy",7.1,84,106.83,C
+Con Air,1997,"Action,Crime,Thriller",6.9,115,101.12,B
+Interview with the Vampire: The Vampire Chronicles,1994,"Drama,Fantasy,Horror",7.5,123,105.26,B
+Flightplan,2005,"Drama,Mystery,Thriller",6.3,98,89.71,B
+Yes Man,2008,"Comedy,Romance",6.8,104,97.69,A
+Non-Stop,2014,"Action,Mystery,Thriller",6.9,106,92.17,C
+"Honey, I Shrunk the Kids",1989,"Adventure,Comedy,Family",6.4,93,130.72,C
+Fahrenheit 9/11,2004,"Documentary,Drama,War",7.5,122,119.19,A
+Wild Wild West,1999,"Action,Comedy,Sci-Fi",4.9,106,113.81,D
+Wo he wo de fu bei,2021,Drama,6.1,157,0.18,A
+Geostorm,2017,"Action,Sci-Fi,Thriller",5.3,109,33.7,B
+Presumed Innocent,1990,"Mystery,Thriller",6.9,127,86.3,C
+Jungle Cruise,2021,"Action,Adventure,Comedy",6.6,127,116.99,B
+Scary Movie 3,2003,Comedy,5.5,84,110,AA
+Collateral,2004,"Action,Crime,Drama",7.5,120,101.01,C
+Inferno,2016,"Action,Adventure,Crime",6.2,121,34.34,A
+Knocked Up,2007,"Comedy,Romance",6.9,129,148.73,A
+Green Lantern,2011,"Action,Adventure,Sci-Fi",5.5,114,116.6,B15
+What Happens in Vegas,2008,"Comedy,Romance",6.1,99,80.28,B
+It's Complicated,2009,"Comedy,Drama,Romance",6.5,121,112.74,D
+The Terminal,2004,"Comedy,Drama,Romance",7.4,128,77.87,C
+Captain Phillips,2013,"Action,Biography,Crime",7.8,134,107.1,A
+The Prince of Egypt,1998,"Animation,Adventure,Drama",7.1,99,101.22,C
+Jack Reacher,2012,"Action,Mystery,Thriller",7,130,80.07,B
+Kingdom of Heaven,2005,"Action,Adventure,Drama",7.2,144,47.4,C
+The Emoji Movie,2017,"Animation,Adventure,Comedy",3.3,86,86.09,D
+Zhe ge sha shou bu tai leng jing,2022,Comedy,6.1,109,89.71,C
+Dracula Untold,2014,"Action,Drama,Fantasy",6.2,92,56.28,D
+Central Intelligence,2016,"Action,Comedy,Crime",6.3,107,127.44,D
+Million Dollar Baby,2004,"Drama,Sport",8.1,132,100.49,C
+The Help,2011,Drama,8.1,146,169.71,A
+Twins,1988,"Comedy,Crime",6.1,107,111.94,A
+Little Women,2019,"Drama,Romance",7.8,135,108.1,AA
+Valentine's Day,2010,"Comedy,Romance",5.7,125,110.49,A
+Bad Teacher,2011,"Comedy,Romance",5.6,92,100.29,C
+Song ni yi duo xiao hong hua,2020,"Drama,Family",6.6,122,82.52,D
+The Croods: A New Age,2020,"Animation,Adventure,Comedy",6.9,95,58.57,A
+Clear and Present Danger,1994,"Action,Crime,Drama",6.9,141,122.19,A
+One Hundred and One Dalmatians,1961,"Animation,Adventure,Comedy",7.3,79,144.88,AA
+Ted 2,2015,Comedy,6.3,115,81.48,A
+Dracula,1992,"Drama,Fantasy,Horror",7.4,128,82.52,A
+Vertical Limit,2000,"Action,Adventure,Drama",5.9,124,69.24,AA
+Ghostbusters II,1989,"Action,Comedy,Fantasy",6.6,108,112.49,B
+The Patriot,2000,"Action,Drama,History",7.2,165,113.33,C
+The Sorcerer's Apprentice,2010,"Action,Adventure,Family",6.1,109,63.15,C
+Just Go with It,2011,"Comedy,Romance",6.4,117,103.03,B
+The Expendables 3,2014,"Action,Adventure,Thriller",6.1,126,39.32,C
+Dirty Dancing,1987,"Drama,Music,Romance",7,100,0.62,B15
+Creed II,2018,"Drama,Sport",7.1,130,115.72,D
+Smallfoot,2018,"Animation,Adventure,Comedy",6.6,96,83.24,C
+Public Enemies,2009,"Action,Biography,Crime",7,140,97.1,A
+The Bourne Identity,2002,"Action,Mystery,Thriller",7.9,119,121.66,B
+Disclosure,1994,"Drama,Thriller",6.1,128,83.02,C
+Pulp Fiction,1994,"Crime,Drama",8.9,154,107.93,B
+The Aviator,2004,"Biography,Drama",7.5,170,102.61,D
+Wo hu cang long,2000,"Action,Adventure,Drama",7.9,120,128.08,D
+Braveheart,1995,"Biography,Drama,History",8.4,178,75.6,B15
+Into the Woods,2014,"Adventure,Comedy,Drama",5.9,125,128,C
+Bedtime Stories,2008,"Adventure,Comedy,Family",6,99,110.1,D
+Miss Congeniality,2000,"Action,Comedy,Crime",6.3,109,106.81,D
+Entrapment,1999,"Action,Crime,Romance",6.3,113,87.7,B
+Ace Ventura: When Nature Calls,1995,"Adventure,Comedy,Crime",6.4,90,108.39,D
+End of Days,1999,"Action,Fantasy,Horror",5.8,122,66.89,B
+Bridget Jones's Baby,2016,"Comedy,Drama,Romance",6.5,123,24.25,AA
+Fury,2014,"Action,Drama,War",7.5,134,85.82,B
+Battle: Los Angeles,2011,"Action,Adventure,Sci-Fi",5.7,116,83.55,A
+Australia,2008,"Adventure,Drama,Romance",6.6,165,49.55,D
+Due Date,2010,"Comedy,Drama",6.5,95,100.54,D
+Master and Commander: The Far Side of the World,2003,"Action,Adventure,Drama",7.4,138,93.93,A
+A Series of Unfortunate Events,2004,"Adventure,Comedy,Family",6.8,108,118.63,D
+The Little Mermaid,1989,"Animation,Adventure,Comedy",7.6,83,111.54,C
+Qi ji · Ben xiao hai,2022,"Comedy,Drama",6.7,106,101.7,C
+District 9,2009,"Action,Sci-Fi,Thriller",7.9,112,115.65,B
+Moonraker,1979,"Action,Adventure,Sci-Fi",6.2,126,70.31,B15
+The Others,2001,"Horror,Mystery,Thriller",7.6,101,96.52,AA
+Horrible Bosses,2011,"Comedy,Crime",6.9,98,117.54,A
+Hou lai de wo men,2018,"Drama,Romance",7.4,120,104.01,D
+Red Dragon,2002,"Crime,Drama,Thriller",7.2,124,93.15,C
+Tomorrowland,2015,"Action,Adventure,Family",6.4,130,93.44,A
+Me Before You,2016,"Drama,Romance",7.4,106,56.25,AA
+Safe House,2012,"Action,Thriller",6.7,115,126.37,A
+S.W.A.T.,2003,"Action,Adventure,Crime",6,117,116.93,A
+The Fast and the Furious,2001,"Action,Adventure,Crime",6.8,106,144.53,A
+Traffic,2000,"Crime,Drama,Thriller",7.6,147,124.12,A
+Paranormal Activity 3,2011,"Horror,Mystery",5.8,83,104.01,C
+Philadelphia,1993,Drama,7.7,125,77.32,B
+The Conjuring: The Devil Made Me Do It,2021,"Horror,Mystery,Thriller",6.3,112,65.63,D
+Sleepy Hollow,1999,"Fantasy,Horror,Mystery",7.3,105,101.07,D
+The Holiday,2006,"Comedy,Romance",6.9,136,63.22,D
+Nou fo,2021,"Action,Adventure,Crime",6.6,126,0.39,AA
+The Jungle Book,1967,"Animation,Adventure,Comedy",7.6,78,141.84,D
+London Has Fallen,2016,"Action,Thriller",5.9,99,62.68,A
+The Break-Up,2006,"Comedy,Drama,Romance",5.8,106,118.7,A
+Xi you: Xiang mo pian,2013,"Action,Adventure,Comedy",6.7,110,0.02,A
+The Ugly Truth,2009,"Comedy,Romance",6.4,96,88.92,AA
+JFK,1991,"Drama,History,Thriller",8,189,70.41,D
+White House Down,2013,"Action,Drama,Thriller",6.3,131,73.1,A
+Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,2020,"Action,Adventure,Comedy",6,109,84.16,B
+A Dog's Purpose,2017,"Adventure,Comedy,Drama",7.2,100,64.51,D
+Gake no ue no Ponyo,2008,"Animation,Adventure,Comedy",7.6,101,15.09,C
+Fun with Dick and Jane,2005,"Comedy,Crime",6.1,90,110.33,C
+Eat Pray Love,2010,"Biography,Drama,Romance",5.8,133,80.57,D
+Ghostbusters: Afterlife,2021,"Adventure,Comedy,Fantasy",7.1,124,129.36,C
+You Don't Mess with the Zohan,2008,"Action,Comedy",5.6,113,100.02,B
+The Addams Family,2019,"Animation,Comedy,Family",5.8,86,100.04,C
+Hairspray,2007,"Comedy,Drama,Musical",6.7,117,118.87,D
+King Arthur,2004,"Action,Adventure,Drama",6.3,126,51.88,C
+Yogi Bear,2010,"Animation,Adventure,Comedy",4.6,81,100.25,A
+Everest,2015,"Action,Adventure,Biography",7.1,121,43.48,B15
+Vanilla Sky,2001,"Fantasy,Mystery,Romance",6.9,136,100.61,A
+Arrival,2016,"Drama,Mystery,Sci-Fi",7.9,116,100.55,AA
+Need for Speed,2014,"Action,Thriller",6.4,132,43.58,D
+Garfield,2004,"Animation,Adventure,Comedy",5,80,75.37,B
+Patch Adams,1998,"Biography,Comedy,Drama",6.8,115,135.03,C
+Teenage Mutant Ninja Turtles,1990,"Action,Adventure,Comedy",6.7,93,135.27,A
+Kindergarten Cop,1990,"Action,Comedy,Crime",6.2,111,91.46,A
+Straight Outta Compton,2015,"Biography,Drama,History",7.8,147,161.2,C
+21 Jump Street,2012,"Action,Comedy,Crime",7.2,109,138.45,A
+Valkyrie,2008,"Drama,History,Thriller",7.1,121,83.08,D
+Open Season,2006,"Animation,Adventure,Comedy",6.1,86,85.11,B
+Cats & Dogs,2001,"Action,Adventure,Comedy",5.1,87,93.39,B
+The Hunt for Red October,1990,"Action,Adventure,Thriller",7.5,135,122.01,C
+Percy Jackson: Sea of Monsters,2013,"Adventure,Family,Fantasy",5.7,106,68.56,C
+Two Weeks Notice,2002,"Comedy,Romance",6.1,101,93.35,B
+RED,2010,"Action,Comedy,Crime",7,111,90.38,D
+Chak daan juen ga 2,2020,"Action,Crime,Thriller",6.6,120,42.78,D
+City of Angels,1998,"Drama,Fantasy,Romance",6.7,114,78.69,AA
+The Pacifier,2005,"Action,Comedy,Drama",5.6,95,113.09,B15
+50 First Dates,2004,"Comedy,Drama,Romance",6.8,99,120.91,C
+Total Recall,2012,"Action,Adventure,Sci-Fi",6.2,118,58.88,C
+Yi chu hao xi,2018,"Comedy,Drama",6.2,134,0.67,A
+Lo imposible,2012,"Adventure,Drama,History",7.5,114,19.02,D
+Ren zai jiong tu: Tai jiong,2012,"Adventure,Comedy,Drama",6.2,105,0.06,C
+Christopher Robin,2018,"Adventure,Comedy,Drama",7.2,104,99.22,B
+Jack the Giant Slayer,2013,"Action,Adventure,Fantasy",6.3,114,65.19,C
+Smurfs: The Lost Village,2017,"Animation,Adventure,Comedy",5.9,90,45.02,A
+Zhong guo yi sheng,2021,Drama,4.7,129,58.88,C
+Spy Kids 3: Game Over,2003,"Action,Adventure,Comedy",4.3,84,111.76,D
+Panic Room,2002,"Crime,Drama,Thriller",6.8,112,96.4,B
+Bullet Train,2022,"Action,Comedy,Thriller",7.4,127,99.97,A
+The Other Woman,2014,"Comedy,Romance",6,109,83.91,B
+Stargate,1994,"Action,Adventure,Sci-Fi",7,116,71.57,A
+Beowulf,2007,"Animation,Action,Adventure",6.3,115,82.16,D
+The Vow,2012,"Drama,Romance",6.8,104,125.01,D
+Anger Management,2003,Comedy,6.2,106,135.65,B
+Tropic Thunder,2008,"Action,Comedy,War",7,107,110.52,AA
+The Shape of Water,2017,"Drama,Fantasy,Romance",7.3,123,63.86,B15
+Rocketman,2019,"Biography,Drama,Musical",7.3,121,96.37,A
+The Pelican Brief,1993,"Crime,Drama,Mystery",6.6,141,100.77,A
+The BFG,2016,"Adventure,Family,Fantasy",6.3,117,55.48,D
+The Intern,2015,"Comedy,Drama",7.1,121,75.76,D
+The Curse of the Were-Rabbit,2005,"Animation,Adventure,Comedy",7.5,85,56.11,A
+Gnomeo & Juliet,2011,"Animation,Adventure,Comedy",5.9,84,99.97,D
+The Sum of All Fears,2002,"Action,Drama,Thriller",6.4,124,118.91,A
+Tenki no ko,2019,"Animation,Drama,Fantasy",7.5,112,7.8,C
+Gangs of New York,2002,"Crime,Drama",7.5,167,77.81,C
+Xi you ji zhi: Sun Wukong san da Baigu Jing,2016,"Action,Adventure,Fantasy",5.9,119,0.71,D
+Paranormal Activity,2007,"Horror,Mystery",6.3,86,107.92,AA
+The Lego Movie 2: The Second Part,2019,"Animation,Action,Adventure",6.6,107,105.81,A
+The Equalizer,2014,"Action,Crime,Thriller",7.2,132,101.53,C
+Downton Abbey,2019,"Drama,Romance",7.4,122,96.85,D
+Wu sha,2019,"Crime,Drama,Thriller",6.8,112,71.57,C
+The Addams Family,1991,"Comedy,Fantasy",6.9,99,113.5,A
+The Longest Yard,2005,"Comedy,Crime,Sport",6.4,113,158.12,C
+The Lost City,2022,"Action,Adventure,Comedy",6.1,112,118.91,C
+The Santa Clause,1994,"Comedy,Drama,Family",6.5,97,144.83,B
+Cheaper by the Dozen,2003,"Comedy,Family",5.9,98,138.61,A
+The Equalizer 2,2018,"Action,Crime,Thriller",6.7,121,102.08,C
+Hollow Man,2000,"Action,Horror,Sci-Fi",5.8,112,73.21,D
+Outbreak,1995,"Action,Drama,Thriller",6.6,127,67.82,D
+So duk 2: Tin dei duei kuet,2019,"Action,Crime",6,99,0.61,C
+The X Files,1998,"Drama,Mystery,Sci-Fi",7,121,83.9,C
+Xin hua lu fang,2014,"Comedy,Drama,Romance",6.4,116,0.77,AA
+Rambo III,1988,"Action,Adventure,Thriller",5.8,102,53.72,D
+The Secret Life of Walter Mitty,2013,"Adventure,Comedy,Drama",7.3,114,58.24,D
+Mou seung,2018,"Action,Crime,Mystery",6.8,130,110.36,A
+Jaws 2,1978,"Adventure,Horror,Thriller",5.8,116,102.92,A
+12 Years a Slave,2013,"Biography,Drama,History",8.1,134,56.67,C
+Heat,1995,"Action,Crime,Drama",8.3,170,67.44,D
+Mr. Popper's Penguins,2011,"Comedy,Family,Fantasy",6,94,68.22,A
+The Grudge,2004,"Horror,Mystery,Thriller",5.9,91,110.36,D
+I Now Pronounce You Chuck & Larry,2007,"Comedy,Romance",5.9,115,120.06,B
+The Horse Whisperer,1998,"Drama,Romance,Western",6.7,169,75.38,D
+Walk the Line,2005,"Biography,Drama,Music",7.8,136,119.52,D
+Jian bing xia,2015,Comedy,5.6,113,113.5,B
+The Jungle Book 2,2003,"Animation,Adventure,Comedy",5.3,72,47.89,B
+The Final Destination,2009,"Horror,Thriller",5.1,82,66.48,C
+Atlantis: The Lost Empire,2001,"Animation,Action,Adventure",6.9,95,84.05,B15
+Inside Man,2006,"Crime,Drama,Mystery",7.6,129,88.51,C
+The Waterboy,1998,"Comedy,Sport",6.1,90,161.49,B
+Hugo,2011,"Adventure,Drama,Family",7.5,126,73.86,C
+Pitch Perfect 3,2017,"Comedy,Music",5.8,93,104.9,B
+Watchmen,2009,"Action,Drama,Mystery",7.6,162,107.51,B15
+The Birdcage,1996,Comedy,7.2,117,124.06,C
+Moulin Rouge!,2001,"Drama,Musical,Romance",7.6,127,57.39,AA
+Snow White and the Seven Dwarfs,1937,"Animation,Adventure,Family",7.6,83,184.93,C
+Hop,2011,"Animation,Adventure,Comedy",5.4,95,108.09,B
+Bad Moms,2016,Comedy,6.2,100,113.26,B
+Jupiter Ascending,2015,"Action,Adventure,Sci-Fi",5.3,127,47.39,A
+Knowing,2009,"Action,Mystery,Sci-Fi",6.2,121,79.96,B15
+102 Dalmatians,2000,"Adventure,Comedy,Family",4.8,100,66.96,B
+Storks,2016,"Animation,Adventure,Comedy",6.8,87,72.68,B
+Stand by Me Doraemon,2014,"Animation,Comedy,Drama",7.3,95,77.22,A
+Paul Blart: Mall Cop,2009,"Action,Comedy,Crime",5.2,91,20.82,A
+Wayne's World,1992,"Comedy,Music",7,94,121.7,D
+Maverick,1994,"Action,Adventure,Comedy",7,127,101.63,D
+Mirror Mirror,2012,"Adventure,Comedy,Drama",5.6,106,64.94,C
+The Man in the Iron Mask,1998,"Action,Adventure,Drama",6.5,132,56.97,AA
+Cape Fear,1991,"Crime,Thriller",7.3,128,79.1,B
+The Haunted Mansion,2003,"Comedy,Family,Fantasy",5.1,99,75.85,B15
+Xi you ji: Da nao tian gong,2014,"Action,Adventure,Family",4.9,119,0.71,B
+While You Were Sleeping,1995,"Comedy,Drama,Romance",6.7,103,81.06,C
+The Bridges of Madison County,1995,"Drama,Romance",7.6,135,71.52,D
+Du cheng feng yun III,2016,"Comedy,Drama",2.5,113,116.63,C
+Poseidon,2006,"Action,Adventure,Thriller",5.7,98,60.67,A
+The First Wives Club,1996,Comedy,6.4,103,105.49,D
+Xuan ya zhi shang,2021,"Crime,Drama,Thriller",6.6,120,0.15,C
+Scooby-Doo 2: Monsters Unleashed,2004,"Adventure,Comedy,Family",5.1,93,84.22,AA
+Hot Shots!,1991,"Action,Comedy",6.7,84,69.47,B
+Road to Perdition,2002,"Crime,Drama,Thriller",7.7,117,104.45,D
+Kill Bill: Vol. 1,2003,"Action,Crime,Drama",8.2,111,70.1,C
+Abominable,2019,"Animation,Adventure,Comedy",7,97,60.72,A
+The Scorpion King,2002,"Action,Adventure,Fantasy",5.5,92,91.05,A
+Sweet Home Alabama,2002,"Comedy,Romance",6.2,108,127.22,B15
+Daddy's Home 2,2017,Comedy,6,100,104.03,B
+Hacksaw Ridge,2016,"Biography,Drama,History",8.1,139,67.21,B
+Deja Vu,2006,"Action,Crime,Sci-Fi",7.1,126,64.04,AA
+The Post,2017,"Biography,Drama,History",7.2,116,81.9,D
+Dangerous Minds,1995,"Biography,Drama",6.5,99,84.92,D
+The Dictator,2012,Comedy,6.4,83,59.65,B15
+The League of Extraordinary Gentlemen,2003,"Action,Adventure,Fantasy",5.8,110,66.47,D
+Allegiant,2016,"Action,Adventure,Mystery",5.7,120,66.18,D
+Daredevil,2003,"Action,Crime",5.3,103,102.54,A
+City Slickers,1991,"Comedy,Western",6.8,113,124.03,D
+He's Just Not That Into You,2009,"Comedy,Drama,Romance",6.4,129,93.95,C
+Eagle Eye,2008,"Action,Mystery,Thriller",6.6,118,101.11,B
+Along Came Polly,2004,"Comedy,Romance",6,90,88.1,B15
+Flushed Away,2006,"Animation,Action,Adventure",6.6,85,64.67,C
+Scary Movie 4,2006,Comedy,5.1,83,90.71,A
+Dante's Peak,1997,"Action,Adventure,Thriller",6,108,67.13,C
+Brokeback Mountain,2005,"Drama,Romance",7.7,134,83.04,C
+Patriot Games,1992,"Action,Thriller",6.8,117,83.29,A
+Flubber,1997,"Comedy,Family,Sci-Fi",5.3,93,92.98,AA
+Baywatch,2017,"Action,Comedy,Crime",5.5,116,58.06,D
+Double Jeopardy,1999,"Crime,Drama,Mystery",6.5,105,116.74,A
+War Horse,2011,"Action,Adventure,Drama",7.2,146,79.88,B
+Paranormal Activity 2,2010,"Horror,Mystery",5.7,91,84.75,C
+How to Lose a Guy in 10 Days,2003,"Comedy,Romance",6.4,116,105.81,B
+AVP: Alien vs. Predator,2004,"Action,Adventure,Horror",5.6,101,80.28,B15
+Ying xiong,2002,"Action,Adventure,Drama",7.9,120,53.71,C
+The 40 Year Old Virgin,2005,"Comedy,Romance",7.1,116,109.45,B
+The Butler,2013,"Biography,Drama",7.2,132,116.63,A
+The Haunting,1999,"Fantasy,Horror,Mystery",5,113,91.41,C
+The Descendants,2011,"Comedy,Drama",7.3,115,82.58,D
+The A-Team,2010,"Action,Adventure,Thriller",6.7,117,77.22,D
+Tootsie,1982,"Comedy,Drama,Romance",7.4,116,177.2,B
+In the Line of Fire,1993,"Action,Crime,Drama",7.2,128,102.31,AA
+Analyze This,1999,"Comedy,Crime",6.7,103,106.89,A
+The Hitman's Bodyguard,2017,"Action,Comedy,Crime",6.9,118,75.47,B
