@@ -9,7 +9,7 @@ import csv
 from statistics import mean
 
 def read_csv():
-    with open('./Movies.csv') as csvfile:
+    with open('./ProyectoP1/Movies.csv') as csvfile:
         reader = csv.reader(csvfile, delimiter=',')
         header = next(reader)
         data = []
