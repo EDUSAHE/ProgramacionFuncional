@@ -1,0 +1,5 @@
+Se encontraron 3 gramas de tamaño 2
+[10] BID,OFFERED
+[7] BROWN,FORMAN
+[7] TIMES,YORK
+    

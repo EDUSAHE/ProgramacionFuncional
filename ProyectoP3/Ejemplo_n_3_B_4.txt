@@ -1,0 +1,6 @@
+Se encontraron 4 gramas de tamaño 3
+[4] EXPORT,LICENSING,REFORM
+[4] PREV,MAR,APR
+[4] BID,OFFERED,COMPARISON
+[4] AS,MUCH,AS
+    
