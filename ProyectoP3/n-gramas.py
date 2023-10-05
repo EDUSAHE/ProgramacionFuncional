@@ -2,8 +2,9 @@ import re
 import itertools
 
 def read_file():
-    with open("Ejemplo.txt", encoding="utf8") as textfile:
+    with open("AlfaMasMenos5000.txt", encoding="utf8") as textfile:
         return [re.sub(r'[0-9=\n]','',i).split(',') for i in textfile if re.sub(r'[0-9=\n]','',i)]
+
 def write_file(name,string):
     with open(name,"w", encoding="utf8") as textfile:
         textfile.write(string)
@@ -25,6 +26,6 @@ def count_ngramas(data,n,b,name):
 
 if __name__ == '__main__':
     l = read_file()
-    count_ngramas(l,1,10,"Ejemplo_n_1_B_10.txt")
-    count_ngramas(l,2,7,"Ejemplo_n_2_B_7.txt")
-    count_ngramas(l,3,4,"Ejemplo_n_3_B_4.txt")
+    count_ngramas(l,1,10,"Prueba_n_1_B_10.txt")
+    count_ngramas(l,2,7,"Prueba_n_2_B_7.txt")
+    count_ngramas(l,3,4,"Prueba_n_3_B_4.txt")
